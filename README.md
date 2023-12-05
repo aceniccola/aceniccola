@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🎯 Mission:
+# 🎯 Mission:
 To contribute to the breadth of knowledge and ability of humanity to tackle our current and future problems.
 
-## 🗻🥾 Current Trail:
+# 🗻🥾 Current Trail:
 Contribute to open source projects that help people to learn, work, and live better, particularly those projects that have some effect on sustainability.
 
-## 🧗 Current Climb:
+# 🧗 Current Climb:
 Reading through open source projects on [For Good First Issue](https://forgoodfirstissue.github.com/). For projects that I can help to improve.
 
-## 🏁 Last Clip:
+# 🏁 Last Clip:
 This is a new climb, still working on the first clip. --update coming soon--
 
