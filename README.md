@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🎯 Mission:
-To contribute to the breadth of knowledge and ability of humanity to tackle our current and future problems.
+To contribute to the breadth of knowledge and ability used by humanity to tackle current and future problems.
 
 ### 🗻🥾 Current Trail:
 Contribute to open source projects that help people to learn, work, and live better, particularly those projects that have some effect on sustainability.
@@ -24,6 +24,6 @@ Contribute to open source projects that help people to learn, work, and live bet
 ### 🧗 Current Climb:
 Reading through open source projects on [For Good First Issue](https://forgoodfirstissue.github.com/). For projects that I can help to improve.
 
-### 🏁 Last Clip:
+### Last Clip:
 This is a new climb, still working on the first clip. --update coming soon--
 
