@@ -1,4 +1,4 @@
-# Hi there 👋! I'm Andrew Ceniccola
+<img src="https://github.com/aceniccola/aceniccola/andrewbanner.png" alt="banner that says Andrew Ceniccola - Machine Learning Engineer">
 
 <!--
 **aceniccola/aceniccola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
