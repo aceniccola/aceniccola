@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🎯 Mission:
-To contribute to humanities ability to tackle current and future problems.
+To contribute to humanity's ability to tackle current and future problems.
 
 ### 🗻🥾 Current Trail:
 Contribute to open source projects that help people to learn, work, and live better, particularly those projects that have some effect on sustainability.
