@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎯 Mission:
+<!--### 🎯 Mission:
 To contribute to humanity's ability to tackle current and future problems.
 
 ### 🗻🥾 Current Trail:
@@ -25,5 +25,6 @@ Contribute to open source projects that help people to learn, work, and live bet
 Reading through open source projects on [For Good First Issue](https://forgoodfirstissue.github.com/). For projects that I can help to improve.
 
 ### Last Clip:
-This is a new climb, still working on the first clip. --update coming soon--
+This is a new climb, still working on the first clip. --update coming soon-- 
+-->
 
