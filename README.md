@@ -1,19 +1,13 @@
 <img src="https://github.com/aceniccola/aceniccola/blob/main/andrewbanner.png" alt="banner that says Andrew Ceniccola - Machine Learning Engineer">
 
-<!--
-**aceniccola/aceniccola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a network schema to act as an abstraction engine in artifical information systems
+- 🌱 I’m currently learning information theory and dynamical systems
+- 👯 I’m looking to collaborate on research around increasing neural network effiency
+- 🤔 I’m looking for help with all of the above
+- 💬 Ask me about my love of climbing or Go (the board game)
+- 📫 How to reach me: asceniccola@gmail.com
+- 😄 Pronouns: He/Him
 
 <!--### 🎯 Mission:
 To contribute to humanity's ability to tackle current and future problems.
