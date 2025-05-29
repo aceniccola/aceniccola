@@ -1,7 +1,7 @@
 <img src="https://github.com/aceniccola/aceniccola/blob/main/andrewbanner.png" alt="banner that says Andrew Ceniccola - Machine Learning Engineer">
 
 
-- 🔭 I’m currently working on a network schema to act as an abstraction engine in artifical information systems
+- 🔭 I’m currently working on a neural network schema to act as an abstraction engine in artifical information systems
 - 🌱 I’m currently learning information theory and dynamical systems
 - 👯 I’m looking to collaborate on research around increasing neural network effiency
 - 🤔 I’m looking for help with all of the above
