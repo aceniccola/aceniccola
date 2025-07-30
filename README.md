@@ -1,4 +1,4 @@
-<img src="https://github.com/aceniccola/aceniccola/blob/main/andrewbanner.png" alt="banner that says Andrew Ceniccola - Machine Learning Engineer">
+<img src="https://github.com/aceniccola/aceniccola/blob/main/andrewpic.png" alt="banner that says Andrew Ceniccola - Machine Learning Engineer">
 
 Website: aceniccola.github.io
 
