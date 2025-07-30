@@ -1,6 +1,6 @@
 <img src="https://github.com/aceniccola/aceniccola/blob/main/aceniccola.png" alt="banner that says Andrew Ceniccola - Machine Learning Engineer">
 
-Website: aceniccola.github.io
+Website: [aceniccola.github.io](aceniccola.github.io)
 
 - 🔭 I’m currently working on:
     - A neural network schema to act as an abstraction engine in artifical information systems.
