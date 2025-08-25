@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on:
     - A neural network schema to act as an abstraction engine in artifical information systems.
     - The Virtual Cell Competition (please reach out to me with any questions here).
-- 🌱 I’m currently learning information theory to explore frontier RL systems and dynamical systems to explore the virtual cell. 
-- 👯 I’m looking to collaborate on research around increasing neural network effiency particulary in biology and reinforcement learning with world modeling.
+- 🌱 I’m currently learning information and spline theories for Reinforcement Learning and dynamical systems for the virtual cell. 
+- 👯 I’m looking to collaborate on research around increasing neural network effiency particulary in biology and reinforcement learning using world modeling.
 - 🤔 I’m looking for help with all of the above
 - 💬 Ask me about my love of climbing or Go (the board game)
 - 📫 How to reach me: asceniccola@gmail.com
